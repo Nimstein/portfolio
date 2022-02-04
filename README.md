@@ -18,12 +18,6 @@ I've also included a download link for each project including its dependencies f
   This will help us determine the success of the business as well as investigate which marketing campaign is producing the best return on investment and which ones we should immediately drop.<br><br>
   <a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/4-aab-test-analysis/4-aab-test-analysis.ipynb">Analyzing and Evaluating AB Test Results</a> | <a href="project_notebooks/4-aab-test-analysis/4-aab-test-analysis.zip?raw=True">Download Project</a><br>
   In this project we analyze the results of an A/A/B test of a company that wanted to test a new font on their website.<br>
-  We evaluate the results of the test and the reliability of the test conditions using CR funnel analysis and statistical hypothesis testing.
-  project # placeholder<br>
-  project # placeholder<br>
-  project # placeholder<br>
-  project # placeholder<br>
-  project # placeholder<br>
-  project # placeholder<br>
-  project # placeholder<br>
+  We evaluate the results of the test and the reliability of the test conditions using CR funnel analysis and statistical hypothesis testing.<br><br>
+  <i><b>More to come soon!</b></i>
 
