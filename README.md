@@ -22,5 +22,13 @@ I've also included a download link for each project including its dependencies f
   <a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/5-ab-testing-business-decisions/ab-testing-business-decisions.ipynb">AB Test Analysis and Business Decisions</a>&emsp;&emsp;|&emsp;&emsp;<a href="project_notebooks/5-ab-testing-business-decisions/ab-testing-business-decisions.zip?raw=True">Download Project</a><br>
   In this project we are asked to analyze the results of an A/B test in order to produce business recommendations.<br>
   We prioritize several hypotheses and test them against the results of the AB test, and combined with our explorative analysis we recommend a preferred course of action.<br><br>
+<a href= "https://www.canva.com/design/DAEw6-jPJhU/view?utm_content=DAEw6-jPJhU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Youtube Trending Dashboard & Presentation</a>&emsp;&emsp;|&emsp;&emsp;<a href="project_presentations/youtube-trending/Analysis-of-Youtube-Trending-Videos.pdf?raw=True">Download Presentation</a>&emsp;&emsp;|&emsp;&emsp;<a href="https://public.tableau.com/views/YoutubeTrendingDashboardAutomationProject/TrendingYoutubeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link">Dashboard</a><br>
+  In this project we take a look at the trending section of youtube, to determine the profile of videos that tend to receive the Trending tag in various sections of the globe.<br>
+  We use Tableau to visualize our findings and make our case.<br>
+  With the help of our conclusions we will be able to recommend the type of videos that have the most ad revenue potential for our marketing team!<br><br>
+  <a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/b979c9ef0e9b3c4fdee311e047d98d6588a45926/project_notebooks/6-la-cafe-investment-analysis/6-la-cafe-investment-analysis.ipynb">LA Cafe Investment Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="project_notebooks/6-la-cafe-investment-analysis/6-la-cafe-investment-analysis.zip?raw=True">Download Project</a>&emsp;&emsp;|&emsp;&emsp;<a href="https://www.canva.com/design/DAEsUHpx8Rg/kKzYFXFq5lGlKi0rRSBaDw/view?utm_content=DAEsUHpx8Rg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Presentation</a><br>
+  In this project we analyze the market conditions of the restaurant scene in Los Angeles.<br>
+  We will make a report to investors who are interested in our idea to open a cafe venue.<br>
+  We look at trends of venues in popular streets of LA, charecteristics of chained and private establishments, seat capacity and more!<br><br>
   <i><b>More to come soon!</b></i>
 
