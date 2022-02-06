@@ -37,5 +37,9 @@ I've also included a download link for each project including its dependencies f
   <a href="https://nbviewer.org/github/Nimstein/portfolio/blob/748d76f47b89720d42e88cb570f55bd975b142c6/project_notebooks/7-video-games-sales-analysis/7-video-games-sales-analysis.ipynb">Video Games Sales Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/7-video-games-sales-analysis/7-video-games-sales-analysis.zip?raw=True">Download Project</a><br>
   In this project we analyze the sales of video games of various platforms such as PS, Xbox, Wii and many more.<br>
   We perform an explorative analysis on the dataset and employ data visualization and statistical hypothesis testing to determine the profile of a successful game.<br><br>
+<a href="https://nbviewer.org/github/Nimstein/portfolio/blob/091fde77a6b296254702e6288acc4d4f83d1ccd2/project_notebooks/9-ride-sharing-frequency-analysis/9-ride-sharing-frequency-analysis.ipynb">Ride Sharing Frequency Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/9-ride-sharing-frequency-analysis/9-ride-sharing-frequency-analysis.zip?raw=True">Download Project</a><br>
+  In this project we examine data from taxi and ride-sharing companies.<br>
+  We'll determine passenger preferences, popular locales, and the effects of external factors.<br>
+  Finally we will perform statistical analysis to determine the effects of weather on ride durations.<br><br>
   <i><b>More to come soon!</b></i>
 
