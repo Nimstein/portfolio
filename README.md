@@ -30,5 +30,8 @@ I've also included a download link for each project including its dependencies f
   In this project we analyze the market conditions of the restaurant scene in Los Angeles.<br>
   We will make a report to investors who are interested in our idea to open a cafe venue.<br>
   We look at trends of venues in popular streets of LA, charecteristics of chained and private establishments, seat capacity and more!<br><br>
+  <a href="https://nbviewer.org/github/Nimstein/portfolio/blob/748d76f47b89720d42e88cb570f55bd975b142c6/project_notebooks/7-video-games-sales-analysis/7-video-games-sales-analysis.ipynb">Video Games Sales Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/7-video-games-sales-analysis/7-video-games-sales-analysis.zip?raw=True">Download Project</a><br>
+  In this project we analyze the sales of video games of various platforms such as PS, Xbox, Wii and many more.<br>
+  We perform an explorative analysis on the dataset and employ data visualization and statistical hypothesis testing to determine the profile of a successful game.<br><br>
   <i><b>More to come soon!</b></i>
 
