@@ -19,6 +19,10 @@ I've also included a download link for each project including its dependencies f
   <a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/4-aab-test-analysis/4-aab-test-analysis-v1.0.ipynb">Analyzing and Evaluating AB Test Results</a>&emsp;&emsp;|&emsp;&emsp;<a href="project_notebooks/4-aab-test-analysis/4-aab-test-analysis.zip?raw=True">Download Project</a><br>
   In this project we analyze the results of an A/A/B test of a company that wanted to test a new font on their website.<br>
   We evaluate the results of the test and the reliability of the test conditions using CR funnel analysis and statistical hypothesis testing.<br><br>
+  <a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/234eaf46a1efe70e475eb7ce85e311481ceab0fb/project_notebooks/8-evaluation-of-faulty-ab-test/8-evaluation-of-faulty-ab-test.ipynb">Evaluation of a Faulty AB Test</a>&emsp;&emsp;|&emsp;&emsp;<a href="project_notebooks/8-evaluation-of-faulty-ab-test/8-evaluation-of-faulty-ab-test.zip?raw=True">Download Project</a><br>
+  In this project we perform an evaluation on two AB tests that were done under less than optimal conditions.<br>
+  As such, in order to make sense of them, we employ rigorous EDA to determine if the tests are viable, and CR funnel analysis combined with statistical testing to determine if the results are meaningful.
+  <br><br>
   <a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/5-ab-testing-business-decisions/ab-testing-business-decisions.ipynb">AB Test Analysis and Business Decisions</a>&emsp;&emsp;|&emsp;&emsp;<a href="project_notebooks/5-ab-testing-business-decisions/ab-testing-business-decisions.zip?raw=True">Download Project</a><br>
   In this project we are asked to analyze the results of an A/B test in order to produce business recommendations.<br>
   We prioritize several hypotheses and test them against the results of the AB test, and combined with our explorative analysis we recommend a preferred course of action.<br><br>
