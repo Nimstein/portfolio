@@ -41,5 +41,8 @@ I've also included a download link for each project including its dependencies f
   In this project we examine data from taxi and ride-sharing companies.<br>
   We'll determine passenger preferences, popular locales, and the effects of external factors.<br>
   Finally we will perform statistical analysis to determine the effects of weather on ride durations.<br><br>
+  <a href="https://nbviewer.org/github/Nimstein/portfolio/blob/26f5846b36e35d9896acb530b29b8717ecdcefb9/project_notebooks/10-telecom-plans-analysis/10-telecom-plans-analysis.ipynb">Telecom Plan Success Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="https://github.com/Nimstein/portfolio/blob/26f5846b36e35d9896acb530b29b8717ecdcefb9/project_notebooks/10-telecom-plans-analysis/10-telecom-plans-analysis.zip?raw=True">Download Project</a><br>
+  In this project we compare two plans of a telecom company by their monthly revenue and user activity.<br>
+  We use statistical testing to determine how the plans differ from one another on a monthly basis and decide which one is worth the marketing team's attention.<br><br>
   <i><b>More to come soon!</b></i>
 
