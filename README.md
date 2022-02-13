@@ -1,4 +1,4 @@
-<h1>My Student Projects</h1>
+<h1>My Projects</h1>
 <h2>Introduction</h2>
 This repository is a collection of analysis projects of various subjects in data analysis.<br>
 Subjects Include but are not limited to:<br>
@@ -19,6 +19,9 @@ I've also included a download link for each project including its dependencies f
   <a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/4-aab-test-analysis/4-aab-test-analysis-v1.0.ipynb">Analyzing and Evaluating AB Test Results</a>&emsp;&emsp;|&emsp;&emsp;<a href="project_notebooks/4-aab-test-analysis/4-aab-test-analysis.zip?raw=True">Download Project</a><br>
   In this project we analyze the results of an A/A/B test of a company that wanted to test a new font on their website.<br>
   We evaluate the results of the test and the reliability of the test conditions using CR funnel analysis and statistical hypothesis testing.<br><br>
+    <a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/3f9be76c72dab8cc7724b4ba9989713dcefbeb96/kaggle_competitions/1-titanic_survivability_prediction_ML/Titanic-surviveability-ML-RFC.ipynb">Kaggle Competition: Predicting Titanic Survivabiliy - ML</a>&emsp;&emsp;|&emsp;&emsp;<a href="https://www.kaggle.com/c/titanic/">Dataset available on Kaggle</a>&emsp;|&emsp;<a href='kaggle_competitions/1-titanic_survivability_prediction_ML/Titanic-surviveability-ML-RFC.ipynb'>Download Notebook Here</a><br>
+  In this Kaggle competition, we are given a train and test dataset with information about passengers of the RMS Titanic that were on board while the superliner sank.<br>
+  We employ feature engineering and cross validation parameter optimization accross various machine learning models to fill in missing values and predict which passengers survived and which did not.<br><br>
   <a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/234eaf46a1efe70e475eb7ce85e311481ceab0fb/project_notebooks/8-evaluation-of-faulty-ab-test/8-evaluation-of-faulty-ab-test.ipynb">Evaluation of a Faulty AB Test</a>&emsp;&emsp;|&emsp;&emsp;<a href="project_notebooks/8-evaluation-of-faulty-ab-test/8-evaluation-of-faulty-ab-test.zip?raw=True">Download Project</a><br>
   In this project we perform an evaluation on two AB tests that were done under less than optimal conditions.<br>
   As such, in order to make sense of them, we employ rigorous EDA to determine if the tests are viable, and CR funnel analysis combined with statistical testing to determine if the results are meaningful.
