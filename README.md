@@ -5,11 +5,14 @@ Subjects Include but are not limited to:<br>
 EDA, Statistical DA, Business Analytics, Supervised and Unsupervised Machine learning, Data Visualization, SQL and Automation.
 <br><br>
 Each link directs to the jupyter notebook of the project.<br>
-I've also included a download link for each project including its dependencies for running the project locally.
+I've also included a download link for each project for running the project locally.
 <h2>Projects</h2>
   <a href="https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis-v1.0.ipynb">Product Range Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="https://public.tableau.com/app/profile/nims7332/viz/12-ProductRangeAnalysisDashboard/E-CommerceStory">Dashboard</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.zip?raw=True">Download Project</a><br>
   In this project we perform a product range analysis on an online store invoice dataset.<br>
   We use several data analysis methods such as Machine learning (Association rules), Seasonality analysis, First transaction analysis and hypothesis testing.<br><br>
+  <a href="https://nbviewer.org/github/Nimstein/portfolio/blob/8ac15e7191ae81f66d59d3f679e3683c035ab351/project_notebooks/11-BI-traffic-source-analysis/Business_Analytics.ipynb">BI Marketing Traffic Source Analysis</a>&emsp;&emsp;|&emsp;&emsp;<u>Dashboard (Coming Soon)</u>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/11-BI-traffic-source-analysis/BI_project.zip?raw=True">Download Project</a><br>
+  In this project we produce a report to the marketing department regarding the performance of various traffic sources which direct users to use the e-commerce services the company offers.<br>
+  We will examine the different costs and benefits of running these sources and through various methods of analysis we determine which ones work towards the long term benefit of the company, and which ones hurt it.<br><br> 
   <a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning-v1.0.ipynb">Churn Prediction Machine Learning Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning.zip?raw=True">Download Project</a><br>
   In this project we employ machine learning algorithm to predict the risk of churn for customers of a gym.<br>
   We will use both supervised and unsupervised learning methods, determine the best algorithm based on each algorithm's metrics and analyze the importance of each data feature to the chance of customer churn.<br><br>
@@ -49,6 +52,5 @@ I've also included a download link for each project including its dependencies f
   Finally we will perform statistical analysis to determine the effects of weather on ride durations.<br><br>
   <a href="https://nbviewer.org/github/Nimstein/portfolio/blob/26f5846b36e35d9896acb530b29b8717ecdcefb9/project_notebooks/10-telecom-plans-analysis/10-telecom-plans-analysis.ipynb">Telecom Plan Success Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="https://github.com/Nimstein/portfolio/blob/26f5846b36e35d9896acb530b29b8717ecdcefb9/project_notebooks/10-telecom-plans-analysis/10-telecom-plans-analysis.zip?raw=True">Download Project</a><br>
   In this project we compare two plans of a telecom company by their monthly revenue and user activity.<br>
-  We use statistical testing to determine how the plans differ from one another on a monthly basis and decide which one is worth the marketing team's attention.<br><br>
-  <i><b>More to come soon!</b></i>
+  We use statistical testing to determine how the plans differ from one another on a monthly basis and decide which one is worth the marketing team's attention.<br>
 
