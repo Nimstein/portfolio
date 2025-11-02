@@ -7,6 +7,13 @@ EDA, Statistical DA, Business Analytics, Supervised and Unsupervised Machine lea
 Each link directs to the jupyter notebook of the project.<br>
 I've also included a download link for each project for running the project locally.
 <h2>Projects</h2>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiODUwNDNhNDQtNjRhNC00ZjNjLTk4ZjktNjEwMjRlMTA0YzJiIiwidCI6IjNjYzI2N2VhLTFmMGQtNDA3My1iMWYyLTJlNjIyM2VkMTc1YiIsImMiOjl9">Power BI - Performance Pulse Tracker</a><br>
+  A simple dashboard for tracking the performance of marketing efforts across several platforms.<br>
+  It features dynamic date aggregation, allowing the user to choose between Daily, Weekly, Monthly or Yearly aggregation, as well as filter by platforms and devices.<br>
+  Users can explore acquisition costs across marketing channels, compare first-time and repeat purchase trends, and have the freedom to explore each date point with a performance table that shows key metrics.
+  The data is sourced from the Google Merchandise Store analytics dataset, a curated subset of anonymized Google Analytics event data made available on Kaggle.
+  The dataset was cleaned and extended with synthetic data in Python to cover a longer time range, then later modeled in Power Query.
+  <br><br>
   <a href="https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis-v1.0.ipynb">Product Range Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="https://public.tableau.com/app/profile/nims7332/viz/12-ProductRangeAnalysisDashboard/E-CommerceStory">Dashboard</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.zip?raw=True">Download Project</a><br>
   In this project we perform a product range analysis on an online store invoice dataset.<br>
   We use several data analysis methods such as Machine learning (Association rules), Seasonality analysis, First transaction analysis and hypothesis testing.<br><br>
