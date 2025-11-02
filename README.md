@@ -4,20 +4,20 @@ This repository is a collection of analysis projects of various subjects in data
 Subjects Include but are not limited to:<br>
 EDA, Statistical DA, Business Analytics, Supervised and Unsupervised Machine learning, Data Visualization, SQL and Automation.
 <br><br>
-Each link directs to the jupyter notebook of the project.<br>
+Each link directs to the jupyter notebook of the project or a link to a dashboard.<br>
 I've also included a download link for each project for running the project locally.
 <h2>Projects</h2>
   <a href="https://app.powerbi.com/view?r=eyJrIjoiODUwNDNhNDQtNjRhNC00ZjNjLTk4ZjktNjEwMjRlMTA0YzJiIiwidCI6IjNjYzI2N2VhLTFmMGQtNDA3My1iMWYyLTJlNjIyM2VkMTc1YiIsImMiOjl9">Power BI - Performance Pulse Tracker</a><br>
   A simple dashboard for tracking the performance of marketing efforts across several platforms.<br>
   It features dynamic date aggregation, allowing the user to choose between Daily, Weekly, Monthly or Yearly aggregation, as well as filter by platforms and devices.<br>
   Users can explore acquisition costs across marketing channels, compare first-time and repeat purchase trends, and have the freedom to explore each date point with a performance table that shows key metrics.
-  The data is sourced from the Google Merchandise Store analytics dataset, a curated subset of anonymized Google Analytics event data made available on Kaggle.
+  The data is sourced from the Google Merchandise Store analytics dataset, a curated subset of anonymized Google Analytics event data made available on <a href="https://www.kaggle.com/datasets/mexwell/google-merchandise-sales-data">Kaggle</a>.
   The dataset was cleaned and extended with synthetic data in Python to cover a longer time range, then later modeled in Power Query.
   <br><br>
   <a href="https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis-v1.0.ipynb">Product Range Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="https://public.tableau.com/app/profile/nims7332/viz/12-ProductRangeAnalysisDashboard/E-CommerceStory">Dashboard</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.zip?raw=True">Download Project</a><br>
   In this project we perform a product range analysis on an online store invoice dataset.<br>
   We use several data analysis methods such as Machine learning (Association rules), Seasonality analysis, First transaction analysis and hypothesis testing.<br><br>
-  <a href="https://nbviewer.org/github/Nimstein/portfolio/blob/8ac15e7191ae81f66d59d3f679e3683c035ab351/project_notebooks/11-BI-traffic-source-analysis/Business_Analytics.ipynb">BI Marketing Traffic Source Analysis</a>&emsp;&emsp;|&emsp;&emsp;<u>Dashboard (Coming Soon)</u>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/11-BI-traffic-source-analysis/BI_project.zip?raw=True">Download Project</a><br>
+  <a href="https://nbviewer.org/github/Nimstein/portfolio/blob/8ac15e7191ae81f66d59d3f679e3683c035ab351/project_notebooks/11-BI-traffic-source-analysis/Business_Analytics.ipynb">BI Marketing Traffic Source Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/11-BI-traffic-source-analysis/BI_project.zip?raw=True">Download Project</a><br>
   In this project we produce a report to the marketing department regarding the performance of various traffic sources which direct users to use the e-commerce services the company offers.<br>
   We will examine the different costs and benefits of running these sources and through various methods of analysis we determine which ones work towards the long term benefit of the company, and which ones hurt it.<br><br> 
   <a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning-v1.0.ipynb">Churn Prediction Machine Learning Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning.zip?raw=True">Download Project</a><br>
