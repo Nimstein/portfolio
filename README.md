@@ -7,6 +7,13 @@ EDA, Statistical DA, Business Analytics, Supervised and Unsupervised Machine lea
 Each link directs to the jupyter notebook of the project or a link to a dashboard.<br>
 I've also included a download link for each project for running the project locally.
 <h2>Projects</h2>
+  <a href="https://public.tableau.com/views/PerformancePulseTracker/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Tableau - Performance Pulse Tracker</a><br>
+  A simple dashboard for tracking the performance of marketing efforts across several platforms.<br>
+  It features dynamic date aggregation, allowing the user to choose between Daily, Weekly, and Monthly aggregation, as well as filter by platforms and devices.<br>
+  Users can explore acquisition costs across marketing channels, compare first-time and repeat purchase trends, and have the freedom to explore each date point with a performance table that shows key metrics.
+  The data is sourced from the Google Merchandise Store analytics dataset, a curated subset of anonymized Google Analytics event data made available on <a href="https://www.kaggle.com/datasets/mexwell/google-merchandise-sales-data">Kaggle</a>.
+  The dataset was cleaned and extended with synthetic data in Python to cover a longer time range, then further modeled into a daily blended table and loaded to tableau for further row based modeling.
+  <br><br>
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNDFjYTUyMmYtNTRjMS00OWE2LTg2YTktN2FhZDcyNGEwMjQzIiwidCI6IjNjYzI2N2VhLTFmMGQtNDA3My1iMWYyLTJlNjIyM2VkMTc1YiIsImMiOjl9">Power BI - Performance Pulse Tracker</a><br>
   A simple dashboard for tracking the performance of marketing efforts across several platforms.<br>
   It features dynamic date aggregation, allowing the user to choose between Daily, Weekly, Monthly or Yearly aggregation, as well as filter by platforms and devices.<br>
