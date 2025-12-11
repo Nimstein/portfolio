@@ -7,6 +7,13 @@ EDA, Statistical DA, Business Analytics, Supervised and Unsupervised Machine lea
 Each link directs to the jupyter notebook of the project or a link to a dashboard.<br>
 I've also included a download link for each project for running the project locally.
 <h2>Projects</h2>
+  <a href="https://public.tableau.com/shared/7RYNYYQBH?:display_count=n&:origin=viz_share_link">Tableau - App Engagement and Acquisition Tracker</a><br>
+  A dashboard for tracking mobile app engagement and acquisitions.<br>
+  It features dynamic date aggregation, fully customizable scatter charts, and a comprehensive KPI panel.<br>
+  Users can explore what drives acquisitions and analyze usage trends of the app.
+  The data has been fully synthesized via an LLM-assisted python script to create realistic events usage data.<br>
+  The dataset was then transformed using Python and loaded into tableau for further row based modeling.
+  <br><br>
   <a href="https://public.tableau.com/views/PerformancePulseTracker/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Tableau - Performance Pulse Tracker</a><br>
   A simple dashboard for tracking the performance of marketing efforts across several platforms.<br>
   It features dynamic date aggregation, allowing the user to choose between Daily, Weekly, and Monthly aggregation, as well as filter by platforms and devices.<br>
